@@ -4,3 +4,7 @@ def super_func():
 def new_func():
     print("You see new func!")
 
+def new_func2():
+    print("You see new func2!")
+
+
