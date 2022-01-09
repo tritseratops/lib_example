@@ -11,7 +11,7 @@ setuptools.setup(
     description='Test lib to check how to include private libs',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/tritseratops/lib_example.git',
+    # url='https://github.com/tritseratops/lib_example.git',
     project_urls = {
         "Main URL": "https://github.com/tritseratops/lib_example.git"
     },

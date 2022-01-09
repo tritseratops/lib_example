@@ -13,3 +13,6 @@ def new_func3():
 
 def new_func4():
     print("You see new func4!")
+
+def new_func6():
+    print("You see new func4!")
