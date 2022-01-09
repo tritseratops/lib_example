@@ -11,3 +11,5 @@ def new_func2():
 def new_func3():
     print("You see new func3!")
 
+def new_func4():
+    print("You see new func4!")
