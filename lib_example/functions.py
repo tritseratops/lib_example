@@ -15,4 +15,7 @@ def new_func4():
     print("You see new func4!")
 
 def new_func6():
-    print("You see new func4!")
+    print("You see new func6!")
+
+def new_func7():
+    print("You see new func7!")
