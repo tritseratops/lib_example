@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: lib-example
+Version: 0.0.9
+Summary: Test lib to check how to include private libs
+Home-page: UNKNOWN
+Author: Horsa Gorbunchul
+Author-email: hb@gmail.com
+License: MIT
+Project-URL: Main URL, https://github.com/tritseratops/lib_example.git
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Requires-Python: >=3
+Description-Content-Type: text/x-rst
+
+Our test lib
+

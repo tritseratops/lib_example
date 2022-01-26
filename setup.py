@@ -5,14 +5,14 @@ import setuptools
 HERE = pathlib.Path(__file__).parent
 
 # The text of the README file
-README = (HERE / "README.rst").read_text()
+README = (HERE / "README.md").read_text()
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name='lib_example',
-    version='0.0.9',
+    version='0.0.10',
     author='Horsa Gorbunchul',
     author_email='hb@gmail.com',
     description='Test lib to check how to include private libs',
