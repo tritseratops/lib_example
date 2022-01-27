@@ -1,3 +1,4 @@
+.gitignore
 README.md
 setup.py
 lib_example/__init__.py
@@ -7,3 +8,6 @@ lib_example.egg-info/PKG-INFO
 lib_example.egg-info/SOURCES.txt
 lib_example.egg-info/dependency_links.txt
 lib_example.egg-info/top_level.txt
+lib_example/__pycache__/__init__.cpython-310.pyc
+lib_example/__pycache__/functions.cpython-310.pyc
+lib_example/__pycache__/greetings.cpython-310.pyc
